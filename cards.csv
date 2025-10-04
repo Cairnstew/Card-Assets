@@ -1,0 +1,4 @@
+name,card_type,material,energy,health,attack,info
+Dragon Knight,Warrior,3,2,10,8,"A fierce warrior."
+Mystic Sage,Mage,1,4,6,2,"A wise spellcaster."
+Forest Guardian,Druid,2,3,12,5,"Protector of the woods."
